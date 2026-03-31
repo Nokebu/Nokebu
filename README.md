@@ -9,14 +9,6 @@
 <p>★ I enjoy building efficient and fast systems;</p>
 <p>★ I live in Brazil;</p>
 
-## Statistics 📊
-
-<div align="center">
-  <a href="https://github.com/Itachi_Uchiha15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itachi_Uchiha15&theme=graywhite">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi_Uchiha15&layout=compact&theme=graywhite">
-</div>
-
 ## Skills 👨‍💻
 
 <p align="center">
