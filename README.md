@@ -7,7 +7,7 @@
 <p>★ My name is Itachi_Uchiha15;</p>
 <p>★ I am focused on C++ development;</p>
 <p>★ I enjoy building efficient and fast systems;</p>
-<p>★ I live in Planet Earth;</p>
+<p>★ I live on Planet Earth;</p>
 
 ## Skills 👨‍💻
 
