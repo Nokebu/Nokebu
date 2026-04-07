@@ -13,13 +13,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,java,arduino,c,cpp,html,css,js,postgres,vim,arch,linux,windows,mint,ps,pr,vscode" />
   </a>
 </p>
 
 ## Tools 🧰
 
+- Linux/Unix
+- Git
+- Github
+- Python
+- Java
 - C++
+- Arduino
 
 ## Social Media
 
